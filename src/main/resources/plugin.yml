@@ -4,3 +4,9 @@ main: fr.zeyx.gamecreator.GameCreator
 api-version: 1.19
 authors: [ ZeyXs, RobinCreed ]
 description: A Minecraft plugin to create games in-game
+commands:
+  gamecreator:
+    description: Main command
+    aliases:
+      - gcreator
+      - gc
